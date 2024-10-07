@@ -40,11 +40,11 @@ Output the model’s coefficients and intercept.
 Predict outcomes and compare them to the actual values. 
 
 ## Program:
-```
+``` python
 
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-Developed by: DURGADEVI P
-RegisterNumber:  212223100006
+Developed by: Ragul R
+RegisterNumber:  212222100040
 
 # Importing necessary libraries
 import pandas as pd
